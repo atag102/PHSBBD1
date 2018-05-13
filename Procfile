@@ -1,1 +1,1 @@
-web: gunicorn PHSBD1.wsgi
+web: gunicorn PHSBD1.wsgi --log-file -
